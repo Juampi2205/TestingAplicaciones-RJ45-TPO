@@ -1,7 +1,7 @@
 # TestingAplicaciones-anulo mufa-TPO
 # Testing de Aplicaciones: Trabajo Práctico Obligatorio
 ## Nombre del equipo
-- 'anulo mufa'
+- 'Anulo mufa'
 ## Integrantes
 - 'Garcia Juan Patricio'
 - 'Mora Aixa'
