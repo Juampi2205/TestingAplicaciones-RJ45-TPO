@@ -9,10 +9,9 @@
 - 'Flores Jose'
 - 'Agreda Michael'
 
-Roles y actividades.
-
-'Especificación de Casos de Pruebas'
-'Ejecución de Casos de Prueba'
-'Reporte de Defectos'
-'Automatización de Casos de Prueba:'
-    '°Michael Agreda'
+# Definicion de  actividades.
+- 'Especificación de Casos de Pruebas'
+- 'Ejecución de Casos de Prueba'
+- 'Reporte de Defectos'
+ -'Automatización de Casos de Prueba:'
+ ----'°Michael Agreda'
