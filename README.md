@@ -13,5 +13,5 @@
 - 'Especificación de Casos de Pruebas'
 - 'Ejecución de Casos de Prueba'
 - 'Reporte de Defectos'
- -'Automatización de Casos de Prueba:'
+-'Automatización de Casos de Prueba:'
  -    '°Michael Agreda'
