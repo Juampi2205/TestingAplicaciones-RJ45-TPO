@@ -51,5 +51,5 @@ class TestPE16():
     self.driver.find_element(By.NAME, "phone").send_keys("1122334455")
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
     #Asserts
-    registered = self.driver.find_element(By.TAG_NAME, "p").click()
+    registered = self.driver.find_element(By.TAG_NAME,"p").text
     assert 'Registered Complete' in registered
