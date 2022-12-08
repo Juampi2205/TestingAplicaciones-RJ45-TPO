@@ -28,5 +28,5 @@ class TestPE54():
     self.driver.find_element(By.NAME, "password").send_keys("La3ra2022")
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3) > input").click()
 
-    login= self.driver.find_element(By.TAG_NAME, "email").click()
+    login= self.driver.find_element(By.TAG_NAME,"p").text
     assert 'Login is successfully' in login
