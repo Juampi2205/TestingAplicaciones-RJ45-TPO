@@ -52,4 +52,4 @@ class TestPE16():
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
     #Asserts
     registered = self.driver.find_element(By.TAG_NAME, "p").click()
-    assert 'This user/email is exist, please try with other' in registered
+    assert 'Registered Complete' in registered
