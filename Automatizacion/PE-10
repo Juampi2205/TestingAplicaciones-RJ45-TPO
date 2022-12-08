@@ -25,5 +25,4 @@ class TestPE10():
     self.driver.find_element(By.ID, "logo").click()
 
     #Asserts
-
     assert self.driver.current_url == "http://127.0.0.1:5000/"
